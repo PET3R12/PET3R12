@@ -1,6 +1,6 @@
-### <div align="center">Hello there!</div>
+# Hello there! 👋
 
-<div align="center"><br><br> I'm <b>Peter</b>, a 3rd-year Computer Science student at <i>University of Warmia and Mazury</i> and a passionate developer.<br> My main focus lies in <b>AI initiatives</b>, <b>IT process optimization</b>, and <b>business analysis</b>.<br><br> I'm an active member of the <i>"Czarna Magia" AI Scientific Club</i>, where I collaborate on exciting ML projects, <br>lead workshops, and organize events like the CAIAK conference (Conference, AI and Kayaking). <br><br> I thrive in team environments, translating business requirements into technical solutions, <br>and tackling complex analytical problems! </div>
+I'm <b>Peter</b>, a 3rd-year Computer Science student at <i>University of Warmia and Mazury</i> and a passionate developer.<br> My main focus lies in <b>AI initiatives</b>, <b>IT process optimization</b>, and <b>business analysis</b>.<br><br> I'm an active member of the <i>"Czarna Magia" AI Scientific Club</i>, where I collaborate on exciting ML projects, <br>lead workshops, and organize events like the CAIAK conference (Conference, AI and Kayaking). <br><br> I thrive in team environments, translating business requirements into technical solutions, <br>and tackling complex analytical problems! </div>
 
 ---
 
