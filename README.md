@@ -1,6 +1,6 @@
 # Hello there! 👋
 
-I'm <b>Peter</b>, a 3rd-year Computer Science student at <i>University of Warmia and Mazury</i> and a passionate developer.<br> My main focus lies in <b>AI initiatives</b>, <b>IT process optimization</b>, and <b>business analysis</b>.<br><br> I'm an active member of the <i>"Czarna Magia" AI Scientific Club</i>, where I collaborate on exciting ML projects, <br>lead workshops, and organize events like the CAIAK conference (Conference, AI and Kayaking). <br><br> I thrive in team environments, translating business requirements into technical solutions, <br>and tackling complex analytical problems! </div>
+I'm <b>Peter</b>, Computer Science student at <i>University of Warmia and Mazury</i> and a passionate developer.<br> My main focus lies in <b>AI initiatives</b>, <b>IT process optimization</b>, and <b>business analysis</b>.<br><br> I'm an active member of the <i>"Czarna Magia" AI Scientific Club</i>, where I collaborate on exciting ML projects, <br>lead workshops, and organize events like the CAIAK conference (Conference, AI and Kayaking). <br><br> I thrive in team environments, translating business requirements into technical solutions, <br>and tackling complex analytical problems! </div>
 
 ---
 
@@ -34,7 +34,7 @@ I'm <b>Peter</b>, a 3rd-year Computer Science student at <i>University of Warmia
 
 | Project                                                                                      | Description                                                                                                                 | Tech Stack                              |
 | :------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------- |
-| [**Skryba**](https://github.com/PET3R12/wave4-skryba)                                        | App that analyzes GitHub repos and generates concise audio descriptions using LLMs and TTS APIs (gTTS, Kokoro, ElevenLabs). | `LangChain`, `OpenAI API`, `Poetry`     |
+| [**Skryba**](https://github.com/PET3R12/skryba)                                        | App that analyzes GitHub repos and generates concise audio descriptions using LLMs and TTS APIs (gTTS, Kokoro, ElevenLabs). | `LangChain`, `OpenAI API`, `Poetry`     |
 | [**Polish HTR System**](https://github.com/PET3R12/pl-handwriting-ocr)                       | End-to-end Handwritten Text Recognition (HTR) system tailored for the Polish language.                                      | `PyTorch`, `YOLOv8n`, `TrOCR`, `Gradio` |
 | [**Facility Reservation System**](https://github.com/PET3R12/faicility-reservations-project) | Object-oriented hotel reservation system backend focused heavily on Clean Code and automated testing.                       | `Python`, `Pytest`, `Loguru`            |
 | [**python algorithms**](https://github.com/PET3R12/python-algorithms)                        | Collection of algorithmic implementations, theoretical breakdowns and data visualizations.                                  | `NumPy`, `Matplotlib`, `uv`             |
